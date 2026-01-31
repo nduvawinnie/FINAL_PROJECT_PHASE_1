@@ -21,3 +21,16 @@ The data source for this project is Kaggle: https://www.kaggle.com/datasets/anan
 
 # **DATA CLEANING**
 This project was cleaned using pandas using Jupyter Notebook and the cleaned csv file was loaded in Tableau where visuals were created 
+
+# **DATA ANALYSIS**
+
+## **Dashboard Overview**
+
+## **Finding**
+
+## **Recommendation**
+
+
+
+
+
