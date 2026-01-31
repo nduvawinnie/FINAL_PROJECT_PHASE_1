@@ -19,3 +19,5 @@ In conclusion, the goal of this project is to come up with safer and more profit
  # **DATA UNDERSTANDING**
 The data source for this project is Kaggle: https://www.kaggle.com/datasets/anandkushawaha/aviation-crashed-flights-data?resource=download. This data is suitable for this project because it identifies the problems encountered in the aircraft business, specifically in terms of operational and financial risk that is actually faced by stakeholders.
 
+# **DATA CLEANING**
+This project was cleaned using pandas using Jupyter Notebook and the cleaned csv file was loaded in Tableau where visuals were created 
