@@ -1,0 +1,2 @@
+### **Overview of Business Understanding**
+This project aims  to solve  potential risks in the aircraft business. The company aims at reducing risk and uncertainty in the company as the company aims at expanding the business. Since the company has no prior experience in the potential risk of aircraft, the business aims at coming up with the lowest risk aircraft that are safe to them and additionally profitable to the business.
