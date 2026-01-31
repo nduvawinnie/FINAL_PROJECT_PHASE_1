@@ -6,11 +6,10 @@
 ### **Overview of Business Understanding**
 This project aims  to solve  potential risks in the aircraft business. The company aims at reducing risk and uncertainty in the company as the company aims at expanding the business. Since the company has no prior experience in the potential risk of aircraft, the business aims at coming up with the lowest risk aircraft that are safe to them and additionally profitable to the business.
 
-### **The 4 main business questions for solving  the problem in this data will be:**
-1. Which type of aircraft and model has the highest accident and  fatality rates?
+### **The 3 main business questions for solving  the problem in this data will be:**
+1. Which type of aircraft and model has the highest accident/fatality rates?
 2. How serious are incidents by aircraft type?
 3. Which aircraft has the lowest risk in terms of accidents?
-4. How is the operational factor influencing aircraft risk?
 
 The goal of this project is to help top management and relevant stakeholders like the risk department, finance, operations in the aviation industry to venture in more safer airctrafts that are less risk and more safe and that are still profitable to the business.
 
@@ -26,9 +25,20 @@ This project was cleaned using pandas using Jupyter Notebook and the cleaned csv
 
 ## **Dashboard Overview**
 
+
 ## **Finding**
+The findings of this project include:
+
+The de Havilland Canada DHC-6 Twin Otter 300 and Cessna 208B Grand Caravan have the highest fatality rate.
+Airbus Aircraft have the lowest risk
+Cessna 208B Grand Caravan has the highest severe incident in terms of type of damage it causes
 
 ## **Recommendation**
+Some of the recommendations I would give to the stakeholders are:
+1. Avoid investing money into the de Havilland Canada DHC-6 Twin Otter 300 and Cessna 208B Grand Carava as this will led too a hudge finacial loss because the aircraft causes a lot of accidents.
+2. Invest in Airbus-type craft, the aircraft are safer for high commercial routes, which will be more reliable and less risky.
+3. Not to invest in Cessna 208B Grand Caravan to minimize their financial risk and operational risks.
+
 
 
 
