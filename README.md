@@ -16,3 +16,5 @@ The goal of this project is to help top management and relevant stakeholders lik
 
 In conclusion, the goal of this project is to come up with safer and more profitable aircraft  as they expand in the aviation industry. The aim is to pin point aircrafts that do not pose financial risks and are of low operational risk. The findings of this project will help relevant stakeholders  in coming up with aircraft that are of low cost and low operational exposure. It will enable them to be safer, more strategic in the aviation industry. 
 
+ # **DATA UNDERSTANDING**
+The data source for this project is Kaggle: https://www.kaggle.com/datasets/anandkushawaha/aviation-crashed-flights-data?resource=download. This data is suitable for this project because it identifies the problems encountered in the aircraft business, specifically in terms of operational and financial risk that is actually faced by stakeholders.
