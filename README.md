@@ -1,6 +1,6 @@
 # AIRCRAFT FATALITY ANALYSIS
 
- ## **Business Problem**
+ # **BUSINESS PROBLEM**
  Your company is expanding into new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
 ### **Overview of Business Understanding**
@@ -18,3 +18,4 @@ In conclusion, the goal of this project is to come up with safer and more profit
 
  # **DATA UNDERSTANDING**
 The data source for this project is Kaggle: https://www.kaggle.com/datasets/anandkushawaha/aviation-crashed-flights-data?resource=download. This data is suitable for this project because it identifies the problems encountered in the aircraft business, specifically in terms of operational and financial risk that is actually faced by stakeholders.
+
