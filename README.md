@@ -48,10 +48,11 @@ Some of the recommendations I would give to the stakeholders are:
 3. Not to invest in Cessna 208B Grand Caravan to minimize their financial risk and operational risks.
 
 # **TOOLS AND TECHNOLOGIES**
-Tableau Interactive Dashboard - https://public.tableau.com/authoring/winniesphase1analysis/Dashboard1#1
+Tableau Interactive Dashboard, Link to the dashboard: https://public.tableau.com/app/profile/winnie.nduva2854/viz/winniesphase1analysis/Dashboard1
 
 
 © 2026 | Nduva Winnie | Data Analytics Portfolio
+
 
 
 
