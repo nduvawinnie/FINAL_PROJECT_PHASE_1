@@ -30,9 +30,9 @@ This project showcase a Tableau dashboard built to analyze commercial and operat
 
 ### *Key Metrics:
 * **Total fatalities**
-* **Aircraft with highest fatality**
+* **Aircraft with the highest fatality**
 * **lowest accident risk aircraft**
-* **Incidents incurred by aircrafts**
+* **Incidents incurred by aircraft**
 
 ## **Finding**
 The findings of this project include:
@@ -52,6 +52,7 @@ Tableau Interactive Dashboard - https://public.tableau.com/authoring/winniesphas
 
 
 © 2026 | Nduva Winnie | Data Analytics Portfolio
+
 
 
 
